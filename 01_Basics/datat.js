@@ -1,4 +1,6 @@
-"Use strict"; // this is use for writting new version of js.
+/*
+//"Use strict";
+ // this is use for writting new version of js.
 
 /*Primitve  data types */
 
@@ -11,7 +13,8 @@ boolean for true or false
 null it is object
 undefined used for not gives value
 */
+
 /*Non primitive *
-objNect
+object
 /
-console.log(typeof"Sahil");// they tells types  datatypes
+console.log(typeof"Sahil");// they tells types  datatypes*/
